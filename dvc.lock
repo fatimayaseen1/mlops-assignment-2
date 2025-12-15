@@ -9,11 +9,11 @@ stages:
       size: 39
     - path: src/train.py
       hash: md5
-      md5: e1c37cceafe28b3882e41859e41a1e19
-      size: 614
+      md5: 682908f4c2276d9b10d9603118397c98
+      size: 573
       isexec: true
     outs:
     - path: models/model.pkl
       hash: md5
-      md5: 09bc0fd7fdf22db7c483bdc8c1f91373
-      size: 531
+      md5: 08c3e0c24d972f63407913c4692760e7
+      size: 896
